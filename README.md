@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kakulson
+- 👀 I’m interested in game development and web development
+- 🌱 I’m currently learning c++ js, python, php, sql, html,css
+- 📫 e-mail lorzder69@gmail.com 
